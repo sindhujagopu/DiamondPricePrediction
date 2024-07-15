@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -75,3 +76,7 @@ docs/_build/
 .pybuilder/
 target/
 
+=======
+# Environments
+venv/
+>>>>>>> parent of 7c6edb8 (second commit)
